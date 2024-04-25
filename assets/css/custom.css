@@ -1,1 +1,13 @@
 ﻿/* Place Your Custom Styles Here */
+.partnerlogo {
+    padding: 1em;
+
+}
+.backedbylogos {
+    display: block;
+    margin-top: 10vh;
+}
+
+.backedby{
+    padding-left: 1rem;
+}
