@@ -20015,12 +20015,12 @@ body.ui-dark div#fp-nav ul li a span {
 }
 @media (min-width: 1400px) {
   body.ln-fullpage-active:not(.layout-mobile) .site-navbar {
-    padding-left: 9rem !important;
+    padding-left: 15rem !important;
     padding-right: 9rem !important;
   }
 
   body.ln-fullpage-active:not(.layout-boxed) section > .container, body.ln-fullpage-active:not(.layout-boxed) section > .container-wide, body.ln-fullpage-active:not(.layout-boxed) section.is-scrollable .fp-scroller > .container, body.ln-fullpage-active:not(.layout-boxed) section.is-scrollable .fp-scroller > .container-wide {
-    padding-left: 9rem;
+    padding-left: 15rem;
     padding-right: 9rem;
   }
 }
